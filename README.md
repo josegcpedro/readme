@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut ! <br>Je suis un développeur passionné<br>avec une forte appétence pour les nouvelles technologies et la création d'applications innovantes. <br>En dehors du code, je suis aussi un adepte du fitness.
+👋 Salut ! <br>Je suis un développeur passionné avec une forte appétence pour les nouvelles technologies et la création d'applications innovantes. <br>En dehors du code, je suis aussi un adepte du fitness.
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 # About Me:
-#### Currently learning AWS cloud computing
+Currently learning AWS cloud computing
 
 
 # Tech Stack:

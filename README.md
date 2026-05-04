@@ -1,6 +1,7 @@
 # About Me:
-Currently learning AWS cloud computing with the goal of obtaining AWS certifications.
+Currently learning AWS cloud computing.
 
+CLF-CO2 certified 🏆
 
 # Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
